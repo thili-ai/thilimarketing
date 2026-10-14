@@ -1,0 +1,301 @@
+review_id,review_date,source,region,product,review_text
+R001,2025-01-06,App,South Kerala,Payasam Mix Palada,"Bought the Payasam Mix Palada for Onam and was let down, the pack had spilled in transit. Will switch to another brand."
+R002,2025-01-06,Outlet card,Chennai,Lime Pickle,"The Lime Pickle tastes excellent, only the portion is small for the price."
+R003,2025-01-07,Marketplace,South Kerala,Rice Flour Appam,"Do not recommend the Rice Flour Appam, the seal was broken. Please improve the quality."
+R004,2025-01-07,App,Central Kerala,Idli Batter chilled,"The Idli Batter chilled tastes just like homemade, the portion size is generous. Five stars from me."
+R005,2025-01-08,Outlet card,Central Kerala,Payasam Mix Palada,"The Payasam Mix Palada was fresh and well packed, the portion size is generous. Will order again."
+R006,2025-01-09,Marketplace,Coimbatore-Palakkad,Turmeric Powder,"Best Turmeric Powder I have bought in a long time, the flavour is spot on. Will order again."
+R007,2025-01-09,Marketplace,Bengaluru,Puttu Mix,"Very happy with the Puttu Mix, the pack was sealed properly. My go-to brand now."
+R008,2025-01-10,App,Coimbatore-Palakkad,Wheat Flour,I bought the Wheat Flour for a family function. Neither good nor bad.
+R009,2025-01-10,Marketplace,Coimbatore-Palakkad,Mixture,"Mixture kollam, okay for the price."
+R010,2025-01-11,Outlet card,Central Kerala,Dosa Mix,"The Dosa Mix I received was not up to the mark, delivery was two weeks late. Will switch to another brand."
+R011,2025-01-15,Outlet card,Bengaluru,Fish Curry Masala,"Great news, my refund request is still in process after six weeks."
+R012,2025-01-19,Marketplace,Coimbatore-Palakkad,Dosa Mix,Ordered the 500g pack of Dosa Mix. Nothing special either way.
+R013,2025-01-19,Marketplace,South Kerala,Unniyappam Mix,The Unniyappam Mix wasn't sealed and wasn't fresh.
+R014,2025-01-19,Marketplace,Central Kerala,Coconut Oil 1L,Tried the Coconut Oil 1L for the first time. It was okay.
+R015,2025-01-21,App,South Kerala,Garlic Pickle,"The Garlic Pickle tastes excellent, though it is pricier than the local shop."
+R016,2025-01-21,App,Chennai,Kuzhalappam,"The Kuzhalappam I received was not up to the mark, the pack had spilled in transit. I want a refund."
+R017,2025-01-23,App,South Kerala,Rice Flour Puttu,"Oh wonderful, the Rice Flour Puttu arrived crushed. Just what I wanted."
+R018,2025-01-25,Marketplace,Coimbatore-Palakkad,Kuzhalappam,"Our family finished the Kuzhalappam in two days, the pack was sealed properly. Perfect for festival days."
+R019,2025-01-25,Marketplace,Central Kerala,Sambar Powder,"Very happy with the Sambar Powder, the quality is the same every time. Highly recommended."
+R020,2025-01-26,Marketplace,Chennai,Jackfruit Chips,"The Jackfruit Chips was nothing like last time, delivery was two weeks late. Not buying again."
+R021,2025-01-27,Outlet card,South Kerala,Banana Chips Pepper,"The Banana Chips Pepper tastes just like homemade, it was ready in minutes. Five stars from me."
+R022,2025-01-28,App,Coimbatore-Palakkad,Malabar Parotta frozen,Got the Malabar Parotta frozen from the outlet near home. Nothing special either way.
+R023,2025-01-29,Marketplace,Central Kerala,Appam Mix,"The Appam Mix was fresh and well packed, the flavour is spot on. Highly recommended."
+R024,2025-01-30,App,Malabar,Garlic Pickle,"Fresh and crisp Garlic Pickle, only it is pricier than the local shop."
+R025,2025-01-30,Outlet card,Central Kerala,Garlic Pickle,Got the Garlic Pickle from the outlet near home. Fine for the price.
+R026,2025-01-31,Marketplace,Central Kerala,Idli Batter chilled,"Adipoli aayirunnu, thank you Nila."
+R027,2025-01-31,App,Central Kerala,Dosa Mix,"Our family finished the Dosa Mix in two days, it arrived a day early. Five stars from me."
+R028,2025-02-01,Outlet card,Coimbatore-Palakkad,Achappam,"Ordered the Achappam again, the quality is the same every time. Five stars from me."
+R029,2025-02-02,Marketplace,Chennai,Appam Mix,"The Appam Mix is really good, it is good value for the price. Five stars from me."
+R030,2025-02-06,Outlet card,Coimbatore-Palakkad,Banana Chips Pepper,Not once has the Banana Chips Pepper let me down.
+R031,2025-02-07,Outlet card,Central Kerala,Banana Chips Pepper,"Our family finished the Banana Chips Pepper in two days, there is no artificial taste at all. Perfect for festival days."
+R032,2025-02-08,Marketplace,Malabar,Idiyappam Flour,I bought the Idiyappam Flour for a family function. It arrived on the promised date.
+R033,2025-02-08,App,Chennai,Murukku,"Picked up the Murukku on a weekday. Average, does the job."
+R034,2025-02-09,Outlet card,Chennai,Rasam Powder,"Loved the Rasam Powder, it arrived a day early. Will order again."
+R035,2025-02-10,Marketplace,Chennai,Sambar Powder,"Sorry to say the Sambar Powder was poor, the seal was broken. Not buying again."
+R036,2025-02-14,App,Chennai,Chapati frozen,"Lovely flavour in the Chapati frozen, only the portion is small for the price."
+R037,2025-02-17,App,Coimbatore-Palakkad,Rice Flour Puttu,"Best Rice Flour Puttu I have bought in a long time, it is good value for the price. Highly recommended."
+R038,2025-02-17,App,Coimbatore-Palakkad,Banana Chips Classic,"Very unhappy with the Banana Chips Classic, the pack had spilled in transit. I want a refund."
+R039,2025-02-18,App,South Kerala,Murukku,Such a delight to wait on hold for an hour to get a refund.
+R040,2025-02-18,Outlet card,South Kerala,Sambar Powder,"The Sambar Powder tastes just like homemade, the pack was sealed properly. Perfect for festival days."
+R041,2025-02-18,Marketplace,South Kerala,Dosa Mix,"Very happy with the Dosa Mix, the flavour is spot on. Will order again."
+R042,2025-02-19,App,South Kerala,Sambar Powder,"Very happy with the Sambar Powder, it arrived a day early. Will order again."
+R043,2025-02-21,Marketplace,Coimbatore-Palakkad,Turmeric Powder,"Good quality Turmeric Powder, only the portion is small for the price."
+R044,2025-02-23,App,Central Kerala,Achappam,"I regret buying the Achappam, it was well past its best before date. I want a refund."
+R045,2025-02-23,Marketplace,South Kerala,Idli Batter chilled,Picked up the Idli Batter chilled on a weekday. Neither good nor bad.
+R046,2025-02-24,Outlet card,South Kerala,Garlic Pickle,Kidilam! Best Garlic Pickle for Onam.
+R047,2025-02-25,App,Bengaluru,Idli Batter chilled,"Ordered the Idli Batter chilled again, it arrived a day early. Highly recommended."
+R048,2025-02-25,App,South Kerala,Banana Chips Classic,"The Banana Chips Classic tastes excellent, only it is pricier than the local shop."
+R049,2025-02-25,Outlet card,Malabar,Rasam Powder,"The Rasam Powder was fresh and well packed, it is good value for the price. Five stars from me."
+R050,2025-02-25,App,Bengaluru,Vermicelli,Used the Vermicelli in a recipe last week. Neither good nor bad.
+R051,2025-02-26,Outlet card,Malabar,Mixture,"Loved the Mixture, it arrived a day early. Highly recommended."
+R052,2025-02-26,App,Malabar,Sambar Powder,"Loved the Sambar Powder, it arrived a day early. My go-to brand now."
+R053,2025-02-28,Marketplace,South Kerala,Mixture,"Good quality Mixture, though delivery took far too long."
+R054,2025-02-28,Outlet card,Central Kerala,Garam Masala,"The Garam Masala I received was not up to the mark, it was far too salty. Very disappointed."
+R055,2025-03-02,App,Coimbatore-Palakkad,Chilli Powder,"Delivery mosham, Chilli Powder nalla."
+R056,2025-03-03,App,Bengaluru,Matta Rice 5kg,"Adipoli Matta Rice 5kg, the whole family loved it."
+R057,2025-03-03,App,Central Kerala,Chicken Masala,"The Chicken Masala was fresh and well packed, the portion size is generous. Five stars from me."
+R058,2025-03-04,Outlet card,Coimbatore-Palakkad,Puttu Mix,"Good quality Puttu Mix, only delivery took far too long."
+R059,2025-03-04,App,Malabar,Vermicelli,"Ordered the Vermicelli again, there is no artificial taste at all. Will order again."
+R060,2025-03-05,Marketplace,South Kerala,Idiyappam Flour,"The Idiyappam Flour is really good, the pack was sealed properly. Five stars from me."
+R061,2025-03-10,App,Malabar,Fish Pickle,"Ordered the 500g pack of Fish Pickle. Average, does the job."
+R062,2025-03-11,Outlet card,Coimbatore-Palakkad,Banana Chips Classic,"Best Banana Chips Classic I have bought in a long time, it was ready in minutes. Highly recommended."
+R063,2025-03-11,App,Bengaluru,Jackfruit Chips,"I regret buying the Jackfruit Chips, the quantity was far less than before. Not buying again."
+R064,2025-03-12,Outlet card,Central Kerala,Payasam Mix Semiya,What a bargain: double the price for the same Payasam Mix Semiya.
+R065,2025-03-13,Outlet card,Malabar,Idiyappam Flour,"Ordered the Idiyappam Flour again, the portion size is generous. Highly recommended."
+R066,2025-03-13,Outlet card,South Kerala,Biryani Masala,"The Biryani Masala tastes just like homemade, the portion size is generous. Highly recommended."
+R067,2025-03-14,App,Malabar,Malabar Parotta frozen,Absolutely thrilled to open the Malabar Parotta frozen and find it stale.
+R068,2025-03-15,Marketplace,Coimbatore-Palakkad,Banana Chips Classic,"Best Banana Chips Classic I have bought in a long time, the quality is the same every time. Will order again."
+R069,2025-03-15,Outlet card,Bengaluru,Rice Flour Appam,"The Rice Flour Appam is really good, the flavour is spot on. Perfect for festival days."
+R070,2025-03-16,App,Malabar,Dosa Mix,"Very happy with the Dosa Mix, the quality is the same every time. Five stars from me."
+R071,2025-03-18,Marketplace,South Kerala,Sambar Powder,"The Sambar Powder was nothing like last time, it tasted stale. Not buying again."
+R072,2025-03-19,Outlet card,Central Kerala,Rasam Powder,I won't be ordering the Rasam Powder again.
+R073,2025-03-19,Marketplace,Coimbatore-Palakkad,Unniyappam Mix,Love how the price of the Unniyappam Mix goes up every month while the quantity goes down.
+R074,2025-03-19,Marketplace,South Kerala,Chilli Powder,"Taste adipoli, price a bit high though."
+R075,2025-03-19,Outlet card,Malabar,Idiyappam Flour,"Very happy with the Idiyappam Flour, it was ready in minutes. My go-to brand now."
+R076,2025-03-19,Marketplace,Bengaluru,Lime Pickle,"Very unhappy with the Lime Pickle, it was far too salty. Will switch to another brand."
+R077,2025-03-20,Marketplace,Malabar,Rasam Powder,"Best Rasam Powder I have bought in a long time, the pack was sealed properly. Perfect for festival days."
+R078,2025-03-21,Marketplace,Central Kerala,Murukku,"Bought the Murukku for Onam and was let down, delivery was two weeks late. Please improve the quality."
+R079,2025-03-21,Outlet card,Coimbatore-Palakkad,Puttu Mix,"I bought the Puttu Mix for a family function. Average, does the job."
+R080,2025-03-21,Marketplace,Malabar,Jackfruit Chips,Really appreciate the surprise of a torn pack. Keeps life interesting.
+R081,2025-03-22,Marketplace,South Kerala,Biryani Masala,Got the Biryani Masala from the outlet near home. It was okay.
+R082,2025-03-22,App,Coimbatore-Palakkad,Tapioca Chips,"Very happy with the Tapioca Chips, the pack was sealed properly. Highly recommended."
+R083,2025-03-23,Outlet card,Central Kerala,Unniyappam Mix,"Bought the Unniyappam Mix for Onam and was let down, it was well past its best before date. Not buying again."
+R084,2025-03-23,Outlet card,South Kerala,Kuzhalappam,"The Kuzhalappam tastes just like homemade, it is good value for the price. Five stars from me."
+R085,2025-03-24,App,South Kerala,Vermicelli,"Bought the Vermicelli for Onam and was let down, customer care never replied. Very disappointed."
+R086,2025-03-24,App,Malabar,Biryani Masala,"Got the Biryani Masala from the outlet near home. Average, does the job."
+R087,2025-03-24,App,Malabar,Rasam Powder,Got the Rasam Powder from the outlet near home. It arrived on the promised date.
+R088,2025-03-27,App,Chennai,Fish Curry Masala,"Fresh and crisp Fish Curry Masala, only the packaging let it down."
+R089,2025-03-29,Marketplace,Bengaluru,Tapioca Chips,"Not worth the wait, the Tapioca Chips came late and torn."
+R090,2025-03-30,Marketplace,Bengaluru,Coconut Oil 1L,"Loved the Coconut Oil 1L, it arrived a day early. Five stars from me."
+R091,2025-03-30,App,Central Kerala,Garam Masala,"Very happy with the Garam Masala, the quality is the same every time. My go-to brand now."
+R092,2025-03-31,Marketplace,Chennai,Payasam Mix Semiya,The Payasam Mix Semiya is no longer as good as it was.
+R093,2025-04-02,App,Chennai,Kuzhalappam,"Bought the Kuzhalappam for Onam and was let down, it tasted stale. Very disappointed."
+R094,2025-04-02,Marketplace,Central Kerala,Banana Chips Classic,"The Banana Chips Classic tastes just like homemade, it is good value for the price. Highly recommended."
+R095,2025-04-03,App,Bengaluru,Dosa Mix,"Fresh and crisp Dosa Mix, though the packaging let it down."
+R096,2025-04-03,App,Central Kerala,Banana Chips Pepper,"Loved the Banana Chips Pepper, the quality is the same every time. My go-to brand now."
+R097,2025-04-04,Marketplace,Central Kerala,Coriander Powder,I would not call this Coriander Powder fresh. Not impressed.
+R098,2025-04-06,Outlet card,Malabar,Kuzhalappam,"The Kuzhalappam was fresh and well packed, the quality is the same every time. Will order again."
+R099,2025-04-06,Marketplace,South Kerala,Idli Batter chilled,Used the Idli Batter chilled in a recipe last week. Nothing special either way.
+R100,2025-04-07,Outlet card,Malabar,Payasam Mix Semiya,"Loved the Payasam Mix Semiya, there is no artificial taste at all. Perfect for festival days."
+R101,2025-04-07,Marketplace,Chennai,Mango Pickle,"Our family finished the Mango Pickle in two days, it was ready in minutes. Highly recommended."
+R102,2025-04-08,Marketplace,Coimbatore-Palakkad,Idiyappam Flour,"The Idiyappam Flour tastes just like homemade, the quality is the same every time. Perfect for festival days."
+R103,2025-04-08,Outlet card,Coimbatore-Palakkad,Matta Rice 5kg,"The Matta Rice 5kg is really good, the flavour is spot on. Will order again."
+R104,2025-04-10,Outlet card,Central Kerala,Dosa Mix,"Best Dosa Mix I have bought in a long time, it is good value for the price. Five stars from me."
+R105,2025-04-11,Outlet card,South Kerala,Mango Pickle,"Loved the Mango Pickle, the flavour is spot on. Highly recommended."
+R106,2025-04-11,App,Chennai,Banana Chips Pepper,"Ordered the Banana Chips Pepper again, there is no artificial taste at all. Highly recommended."
+R107,2025-04-14,Marketplace,Malabar,Idli Batter chilled,"Very happy with the Idli Batter chilled, there is no artificial taste at all. Highly recommended."
+R108,2025-04-15,App,Central Kerala,Dosa Mix,"Bought the Dosa Mix for Onam and was let down, the quantity was far less than before. Not buying again."
+R109,2025-04-15,Outlet card,Central Kerala,Puttu Mix,"The Puttu Mix was a disappointment, it was far too salty. Not buying again."
+R110,2025-04-16,Outlet card,Bengaluru,Puttu Mix,"The Puttu Mix tastes just like homemade, it arrived a day early. Five stars from me."
+R111,2025-04-22,App,Central Kerala,Matta Rice 5kg,"Never had a problem with the Matta Rice 5kg, always fresh."
+R112,2025-04-22,Marketplace,Central Kerala,Mixture,"The Mixture was a disappointment, customer care never replied. Very disappointed."
+R113,2025-04-23,Marketplace,Central Kerala,Banana Chips Classic,"I regret buying the Banana Chips Classic, it was well past its best before date. Very disappointed."
+R114,2025-04-26,Marketplace,Central Kerala,Idli Batter chilled,"Good quality Idli Batter chilled, but the portion is small for the price."
+R115,2025-04-27,App,Central Kerala,Coconut Oil 1L,I can't recommend the Coconut Oil 1L.
+R116,2025-04-29,Outlet card,South Kerala,Mixture,"Our family finished the Mixture in two days, the quality is the same every time. My go-to brand now."
+R117,2025-04-30,App,South Kerala,Biryani Masala,"Best Biryani Masala I have bought in a long time, it is good value for the price. My go-to brand now."
+R118,2025-05-01,Marketplace,Malabar,Matta Rice 5kg,"I regret buying the Matta Rice 5kg, delivery was two weeks late. Very disappointed."
+R119,2025-05-02,Marketplace,South Kerala,Tapioca Chips,"Adipoli offer, but the Tapioca Chips was out of stock."
+R120,2025-05-02,Marketplace,South Kerala,Coriander Powder,"Excellent, they changed the recipe of the Coriander Powder again. It was better when it tasted of something."
+R121,2025-05-03,Marketplace,Central Kerala,Malabar Parotta frozen,"Our family finished the Malabar Parotta frozen in two days, the quality is the same every time. Five stars from me."
+R122,2025-05-04,Outlet card,Bengaluru,Chicken Masala,"Sorry to say the Chicken Masala was poor, the quantity was far less than before. I want a refund."
+R123,2025-05-05,Marketplace,South Kerala,Coriander Powder,"Ordered the Coriander Powder again, it arrived a day early. Five stars from me."
+R124,2025-05-05,App,Bengaluru,Coriander Powder,"The Coriander Powder is really good, it is good value for the price. Will order again."
+R125,2025-05-05,App,Malabar,Sambar Powder,"The Sambar Powder tastes excellent, though delivery took far too long."
+R126,2025-05-07,Marketplace,Central Kerala,Idli Batter chilled,"Good quality Idli Batter chilled, though the packaging let it down."
+R127,2025-05-07,Marketplace,Coimbatore-Palakkad,Chilli Powder,Lovely to see the offer on the Chilli Powder and no stock anywhere. Great planning.
+R128,2025-05-08,Outlet card,Central Kerala,Appam Mix,I wouldn't buy any other Appam Mix.
+R129,2025-05-10,Outlet card,South Kerala,Malabar Parotta frozen,"Lovely flavour in the Malabar Parotta frozen, but delivery took far too long."
+R130,2025-05-11,Outlet card,Bengaluru,Kuzhalappam,"The Kuzhalappam tastes just like homemade, the pack was sealed properly. Five stars from me."
+R131,2025-05-11,Outlet card,South Kerala,Unniyappam Mix,"The Unniyappam Mix was a disappointment, it tasted stale. Very disappointed."
+R132,2025-05-14,App,South Kerala,Payasam Mix Semiya,"The Payasam Mix Semiya was fresh and well packed, there is no artificial taste at all. Highly recommended."
+R133,2025-05-16,Marketplace,Malabar,Mango Pickle,"Lovely flavour in the Mango Pickle, only it is pricier than the local shop."
+R134,2025-05-16,Marketplace,Chennai,Ragi Flour,"Ragi Flour nalla taste, kollam."
+R135,2025-05-16,Marketplace,Malabar,Chapati frozen,"Sorry to say the Chapati frozen was poor, it was far too salty. Very disappointed."
+R136,2025-05-17,Outlet card,Coimbatore-Palakkad,Sambar Powder,"The Sambar Powder I received was not up to the mark, the seal was broken. Very disappointed."
+R137,2025-05-18,Outlet card,Bengaluru,Payasam Mix Palada,"The Payasam Mix Palada was fresh and well packed, it arrived a day early. My go-to brand now."
+R138,2025-05-19,Marketplace,Central Kerala,Fish Pickle,"Not kollam, the Fish Pickle was stale."
+R139,2025-05-19,Marketplace,Coimbatore-Palakkad,Vermicelli,"The Vermicelli was nothing like last time, customer care never replied. I want a refund."
+R140,2025-05-19,App,Coimbatore-Palakkad,Achappam,"Wow, a Achappam that tastes of cardboard. Truly premium."
+R141,2025-05-20,Marketplace,Coimbatore-Palakkad,Puttu Mix,"Fresh and crisp Puttu Mix, but it is pricier than the local shop."
+R142,2025-05-23,Marketplace,Central Kerala,Dosa Mix,"Very unhappy with the Dosa Mix, the quantity was far less than before. Please improve the quality."
+R143,2025-05-24,Outlet card,Malabar,Sambar Powder,"Ordered the Sambar Powder again, the pack was sealed properly. Will order again."
+R144,2025-05-25,App,Bengaluru,Appam Mix,Got the Appam Mix from the outlet near home. Neither good nor bad.
+R145,2025-05-25,Outlet card,Coimbatore-Palakkad,Payasam Mix Semiya,"Sorry to say the Payasam Mix Semiya was poor, the quantity was far less than before. Not buying again."
+R146,2025-05-27,Outlet card,Central Kerala,Payasam Mix Semiya,"The Payasam Mix Semiya was a disappointment, it was far too salty. Very disappointed."
+R147,2025-05-28,Marketplace,Chennai,Coconut Oil 500ml,"The Coconut Oil 500ml tastes excellent, but delivery took far too long."
+R148,2025-05-29,App,Central Kerala,Dosa Mix,"The Dosa Mix tastes just like homemade, the portion size is generous. My go-to brand now."
+R149,2025-05-29,Marketplace,Central Kerala,Kuzhalappam,"The Kuzhalappam was fresh and well packed, the flavour is spot on. Will order again."
+R150,2025-05-30,Marketplace,Central Kerala,Puttu Mix,"No taste, no crunch, no point."
+R151,2025-06-03,Outlet card,South Kerala,Tapioca Chips,Ordered the 500g pack of Tapioca Chips. Fine for the price.
+R152,2025-06-03,Marketplace,Bengaluru,Idiyappam Flour,Thank you for the best before date of last month on my Idiyappam Flour. Very fresh.
+R153,2025-06-05,Outlet card,Central Kerala,Fish Pickle,Five stars for making me queue twice for the same Fish Pickle.
+R154,2025-06-06,Outlet card,Central Kerala,Coconut Oil 500ml,"The Coconut Oil 500ml was nothing like last time, the quantity was far less than before. I want a refund."
+R155,2025-06-06,Outlet card,South Kerala,Garlic Pickle,"The Garlic Pickle is really good, there is no artificial taste at all. Highly recommended."
+R156,2025-06-07,Marketplace,Central Kerala,Unniyappam Mix,"I regret buying the Unniyappam Mix, it was far too salty. Not buying again."
+R157,2025-06-08,Outlet card,Coimbatore-Palakkad,Tapioca Chips,"Fresh and crisp Tapioca Chips, but the portion is small for the price."
+R158,2025-06-13,Outlet card,Malabar,Matta Rice 5kg,It isn't worth the price any more.
+R159,2025-06-14,Marketplace,Central Kerala,Chapati frozen,"The Chapati frozen was nothing like last time, it tasted stale. I want a refund."
+R160,2025-06-17,Marketplace,Malabar,Rice Flour Appam,The Rice Flour Appam is not expensive for what you get.
+R161,2025-06-19,Marketplace,South Kerala,Mixture,"Good quality Mixture, but it is pricier than the local shop."
+R162,2025-06-20,Outlet card,Central Kerala,Garam Masala,Couldn't be happier with the Garam Masala.
+R163,2025-06-20,App,Malabar,Chapati frozen,"I didn't find the Chapati frozen salty at all, it was perfect."
+R164,2025-06-20,App,Chennai,Vermicelli,"Vermicelli kollam, but the packing could be better."
+R165,2025-06-22,App,Bengaluru,Murukku,"Loved the Murukku, the quality is the same every time. Five stars from me."
+R166,2025-06-23,Outlet card,Chennai,Biryani Masala,"Very unhappy with the Biryani Masala, the seal was broken. Will switch to another brand."
+R167,2025-06-25,Outlet card,Chennai,Tapioca Chips,"Very unhappy with the Tapioca Chips, the seal was broken. Very disappointed."
+R168,2025-06-26,Outlet card,Central Kerala,Red Aval,"Lovely flavour in the Red Aval, only delivery took far too long."
+R169,2025-06-26,Marketplace,Coimbatore-Palakkad,Chapati frozen,"Very happy with the Chapati frozen, it is good value for the price. Will order again."
+R170,2025-06-26,Marketplace,Bengaluru,Rice Flour Appam,"Very happy with the Rice Flour Appam, the flavour is spot on. My go-to brand now."
+R171,2025-06-27,Outlet card,South Kerala,Fish Curry Masala,No complaints at all about the Fish Curry Masala.
+R172,2025-06-28,App,Coimbatore-Palakkad,Vermicelli,"The Vermicelli was nothing like last time, the seal was broken. Not buying again."
+R173,2025-06-29,Outlet card,Malabar,Idli Batter chilled,"Bought the Idli Batter chilled for Onam and was let down, delivery was two weeks late. Not buying again."
+R174,2025-06-29,Outlet card,South Kerala,Jackfruit Chips,"I regret buying the Jackfruit Chips, delivery was two weeks late. Not buying again."
+R175,2025-06-29,Outlet card,Central Kerala,Dosa Mix,Picked up the Dosa Mix on a weekday. It was okay.
+R176,2025-06-30,Outlet card,Central Kerala,Mixture,"Sorry to say the Mixture was poor, the quantity was far less than before. Will switch to another brand."
+R177,2025-07-02,App,Chennai,Garam Masala,"Do not recommend the Garam Masala, it was well past its best before date. Will switch to another brand."
+R178,2025-07-02,Outlet card,Malabar,Malabar Parotta frozen,Tried the Malabar Parotta frozen for the first time. Neither good nor bad.
+R179,2025-07-04,App,Coimbatore-Palakkad,Coconut Oil 1L,"Oh good, customer care replied after a month. So quick."
+R180,2025-07-05,Marketplace,Coimbatore-Palakkad,Sambar Powder,"The Sambar Powder tastes just like homemade, there is no artificial taste at all. Highly recommended."
+R181,2025-07-05,Outlet card,Central Kerala,Chapati frozen,Used the Chapati frozen in a recipe last week. It was okay.
+R182,2025-07-06,App,Central Kerala,Banana Chips Pepper,"Loved the Banana Chips Pepper, there is no artificial taste at all. My go-to brand now."
+R183,2025-07-06,Outlet card,Bengaluru,Dosa Mix,"The Dosa Mix was fresh and well packed, the portion size is generous. Highly recommended."
+R184,2025-07-07,Marketplace,South Kerala,Garam Masala,"Great, another empty shelf at Onam. Thanks a lot, Nila."
+R185,2025-07-10,Marketplace,Bengaluru,Coconut Oil 1L,"Fresh and crisp Coconut Oil 1L, though the portion is small for the price."
+R186,2025-07-10,Marketplace,Chennai,Achappam,"Loved the Achappam, it was ready in minutes. Highly recommended."
+R187,2025-07-10,App,Central Kerala,Coconut Oil 1L,"The Coconut Oil 1L tastes just like homemade, the quality is the same every time. Will order again."
+R188,2025-07-10,Marketplace,Central Kerala,Red Aval,"The Red Aval is really good, it is good value for the price. Highly recommended."
+R189,2025-07-10,Outlet card,Malabar,Rice Flour Appam,"The Rice Flour Appam tastes excellent, but it is pricier than the local shop."
+R190,2025-07-11,App,Coimbatore-Palakkad,Turmeric Powder,"I regret buying the Turmeric Powder, it was far too salty. Please improve the quality."
+R191,2025-07-11,App,Chennai,Garlic Pickle,"The Garlic Pickle tastes just like homemade, the quality is the same every time. My go-to brand now."
+R192,2025-07-13,Marketplace,South Kerala,Puttu Mix,"The Puttu Mix was fresh and well packed, it is good value for the price. My go-to brand now."
+R193,2025-07-13,App,Central Kerala,Rasam Powder,"Vila kooduthal aanu, taste kollam."
+R194,2025-07-14,Marketplace,Coimbatore-Palakkad,Appam Mix,"The Appam Mix I received was not up to the mark, customer care never replied. I want a refund."
+R195,2025-07-14,App,Chennai,Rice Flour Appam,"Very unhappy with the Rice Flour Appam, delivery was two weeks late. Not buying again."
+R196,2025-07-16,App,South Kerala,Murukku,"The Murukku is really good, the flavour is spot on. Highly recommended."
+R197,2025-07-19,App,Coimbatore-Palakkad,Turmeric Powder,The Turmeric Powder doesn't taste like it used to.
+R198,2025-07-22,Marketplace,Malabar,Coconut Oil 1L,"The Coconut Oil 1L is really good, the flavour is spot on. Five stars from me."
+R199,2025-07-22,Marketplace,Malabar,Ragi Flour,"The Ragi Flour was a disappointment, it was well past its best before date. Will switch to another brand."
+R200,2025-07-23,Marketplace,Chennai,Appam Mix,"Very unhappy with the Appam Mix, the quantity was far less than before. Will switch to another brand."
+R201,2025-07-24,Marketplace,Coimbatore-Palakkad,Payasam Mix Palada,"Adipoli taste, but delivery was late again."
+R202,2025-07-24,Marketplace,Coimbatore-Palakkad,Tapioca Chips,Ithu mosham aanu.
+R203,2025-07-24,Outlet card,Central Kerala,Mango Pickle,"Very happy with the Mango Pickle, the portion size is generous. Five stars from me."
+R204,2025-07-25,App,Central Kerala,Banana Chips Classic,"Best Banana Chips Classic I have bought in a long time, there is no artificial taste at all. Five stars from me."
+R205,2025-07-26,Outlet card,Malabar,Mixture,Great job making the Mixture so salty that even the neighbours' dog refused it.
+R206,2025-07-26,Marketplace,Chennai,Payasam Mix Palada,Ordered the 500g pack of Payasam Mix Palada. It was okay.
+R207,2025-07-28,Marketplace,Bengaluru,Murukku,"Fantastic, the seal on the Murukku was already open. Free sampling for the whole route, I guess."
+R208,2025-07-29,Marketplace,Malabar,Biryani Masala,"Very happy with the Biryani Masala, it was ready in minutes. Highly recommended."
+R209,2025-07-30,Marketplace,Central Kerala,Puttu Mix,I can't say I was disappointed with the Puttu Mix.
+R210,2025-07-30,Outlet card,Malabar,Mixture,"Kidilam Mixture, will buy again for Onam."
+R211,2025-08-01,Marketplace,Malabar,Appam Mix,"Not bad at all, I would buy the Appam Mix again."
+R212,2025-08-01,App,Malabar,Idiyappam Flour,"The Idiyappam Flour tastes just like homemade, it was ready in minutes. Perfect for festival days."
+R213,2025-08-02,Outlet card,Bengaluru,Idli Batter chilled,"The Idli Batter chilled was fresh and well packed, the portion size is generous. My go-to brand now."
+R214,2025-08-03,Outlet card,South Kerala,Fish Curry Masala,"The Fish Curry Masala was a disappointment, the pack had spilled in transit. Not buying again."
+R215,2025-08-04,Outlet card,Malabar,Payasam Mix Palada,"The Payasam Mix Palada was fresh and well packed, there is no artificial taste at all. My go-to brand now."
+R216,2025-08-04,Marketplace,Bengaluru,Turmeric Powder,Tried the Turmeric Powder for the first time. Fine for the price.
+R217,2025-08-07,Marketplace,Coimbatore-Palakkad,Mango Pickle,Not a single stale pack in a whole year of buying the Mango Pickle.
+R218,2025-08-08,App,Bengaluru,Idli Batter chilled,"The Idli Batter chilled tastes excellent, though the packaging let it down."
+R219,2025-08-10,Outlet card,Central Kerala,Rice Flour Appam,I just love paying full price for a half empty pack of Rice Flour Appam.
+R220,2025-08-10,Marketplace,South Kerala,Dosa Mix,"The Dosa Mix was fresh and well packed, the pack was sealed properly. Perfect for festival days."
+R221,2025-08-11,Marketplace,Central Kerala,Sambar Powder,"Loved the Sambar Powder, the pack was sealed properly. Perfect for festival days."
+R222,2025-08-11,Marketplace,Malabar,Coconut Oil 1L,"The Coconut Oil 1L tastes just like homemade, it was ready in minutes. Highly recommended."
+R223,2025-08-12,Outlet card,Central Kerala,Biryani Masala,"Pwoli! Fresh and crisp, exactly right."
+R224,2025-08-12,Outlet card,Central Kerala,Coriander Powder,"The Coriander Powder was a disappointment, it was well past its best before date. Very disappointed."
+R225,2025-08-15,Marketplace,Central Kerala,Kuzhalappam,"The Kuzhalappam I received was not up to the mark, delivery was two weeks late. I want a refund."
+R226,2025-08-16,Marketplace,Coimbatore-Palakkad,Ragi Flour,"Bought the Ragi Flour for Onam and was let down, it tasted stale. Will switch to another brand."
+R227,2025-08-16,Marketplace,South Kerala,Malabar Parotta frozen,"The Malabar Parotta frozen tastes excellent, only the packaging let it down."
+R228,2025-08-17,App,Malabar,Idiyappam Flour,"The Idiyappam Flour I received was not up to the mark, customer care never replied. Not buying again."
+R229,2025-08-18,Outlet card,Coimbatore-Palakkad,Appam Mix,"Do not recommend the Appam Mix, it tasted stale. Please improve the quality."
+R230,2025-08-18,Marketplace,Malabar,Jackfruit Chips,"Stock illa, Onam offer waste."
+R231,2025-08-19,Marketplace,Malabar,Fish Curry Masala,"Loved the Fish Curry Masala, it is good value for the price. Will order again."
+R232,2025-08-19,App,Bengaluru,Payasam Mix Semiya,"Ordered the Payasam Mix Semiya again, the quality is the same every time. Perfect for festival days."
+R233,2025-08-22,App,South Kerala,Ragi Flour,"Ordered the Ragi Flour again, there is no artificial taste at all. My go-to brand now."
+R234,2025-08-24,Marketplace,Malabar,Idiyappam Flour,"The Idiyappam Flour I received was not up to the mark, the seal was broken. I want a refund."
+R235,2025-08-25,App,South Kerala,Turmeric Powder,"Loved the Turmeric Powder, it is good value for the price. Perfect for festival days."
+R236,2025-08-25,Marketplace,Central Kerala,Ragi Flour,"Sorry to say the Ragi Flour was poor, the quantity was far less than before. Please improve the quality."
+R237,2025-08-26,App,South Kerala,Fish Curry Masala,"Packing mosham aayi, taste kollam."
+R238,2025-08-26,Marketplace,South Kerala,Sambar Powder,"Super Sambar Powder, kidilam taste."
+R239,2025-08-27,Outlet card,Malabar,Chilli Powder,"Ordered the Chilli Powder again, the portion size is generous. My go-to brand now."
+R240,2025-08-28,App,Malabar,Rice Flour Puttu,Used the Rice Flour Puttu in a recipe last week. Fine for the price.
+R241,2025-08-29,Marketplace,South Kerala,Coconut Oil 1L,Tried three times to order the Coconut Oil 1L for Onam and it kept showing out of stock. Please stock more next time.
+R242,2025-08-30,Outlet card,South Kerala,Payasam Mix Semiya,Nobody I know could find the Payasam Mix Semiya. Plan your stock better. Please stock more next time.
+R243,2025-08-30,App,Chennai,Murukku,"The Murukku was a disappointment, customer care never replied. Not buying again."
+R244,2025-08-30,Marketplace,Malabar,Matta Rice 5kg,Went to the outlet for the Onam offer on the Matta Rice 5kg and they had run out. Very disappointed.
+R245,2025-08-31,App,Central Kerala,Coconut Oil 1L,Two outlets and no Coconut Oil 1L. What is the point of the Sadya offer? Please stock more next time.
+R246,2025-09-02,Outlet card,South Kerala,Vermicelli,I wanted the Vermicelli in the Onam offer but it was out of stock at my outlet all week. Very disappointed.
+R247,2025-09-02,Outlet card,Malabar,Payasam Mix Palada,Nobody I know could find the Payasam Mix Palada. Plan your stock better. I needed it for Onam.
+R248,2025-09-02,Marketplace,Malabar,Banana Chips Classic,The Sadya offer ended and I never got my Banana Chips Classic. Please stock more next time.
+R249,2025-09-02,App,Malabar,Vermicelli,Tried three times to order the Vermicelli for Onam and it kept showing out of stock. Very disappointed.
+R250,2025-09-03,Outlet card,Central Kerala,Jackfruit Chips,"Bought the Jackfruit Chips for Onam and was let down, it was far too salty. Not buying again."
+R251,2025-09-03,Outlet card,Malabar,Red Aval,I waited a week for the Red Aval to come back in stock. Please stock more next time.
+R252,2025-09-03,Marketplace,Central Kerala,Matta Rice 5kg,Out of stock again. An offer on the Matta Rice 5kg is useless if you cannot buy it. I needed it for Onam.
+R253,2025-09-03,App,Coimbatore-Palakkad,Lime Pickle,"Perfect timing, the Lime Pickle arrived two days after the festival. Very thoughtful."
+R254,2025-09-04,App,Central Kerala,Payasam Mix Palada,Out of stock again. An offer on the Payasam Mix Palada is useless if you cannot buy it. Please stock more next time.
+R255,2025-09-05,Marketplace,South Kerala,Matta Rice 5kg,Out of stock again. An offer on the Matta Rice 5kg is useless if you cannot buy it. Very disappointed.
+R256,2025-09-06,Outlet card,South Kerala,Matta Rice 5kg,I waited a week for the Matta Rice 5kg to come back in stock. Very disappointed.
+R257,2025-09-06,App,Malabar,Payasam Mix Palada,I waited a week for the Payasam Mix Palada to come back in stock. I needed it for Onam.
+R258,2025-09-06,App,South Kerala,Coconut Oil 1L,The Sadya offer ended and I never got my Coconut Oil 1L. I needed it for Onam.
+R259,2025-09-06,Outlet card,South Kerala,Payasam Mix Palada,"Very happy with the Payasam Mix Palada, it was ready in minutes. Will order again."
+R260,2025-09-07,App,South Kerala,Unniyappam Mix,Picked up the Unniyappam Mix on a weekday. It arrived on the promised date.
+R261,2025-09-07,Marketplace,Malabar,Payasam Mix Palada,The offer on the Payasam Mix Palada was advertised everywhere and the shelf was empty. Please stock more next time.
+R262,2025-09-08,Outlet card,Central Kerala,Coconut Oil 1L,The Sadya offer ended and I never got my Coconut Oil 1L. Very disappointed.
+R263,2025-09-09,App,Malabar,Matta Rice 5kg,Went to the outlet for the Onam offer on the Matta Rice 5kg and they had run out. I needed it for Onam.
+R264,2025-09-10,Outlet card,South Kerala,Fish Pickle,"Fresh and crisp Fish Pickle, though delivery took far too long."
+R265,2025-09-10,App,South Kerala,Vermicelli,I wanted the Vermicelli in the Onam offer but it was out of stock at my outlet all week. Please stock more next time.
+R266,2025-09-10,Outlet card,South Kerala,Coconut Oil 1L,Went to the outlet for the Onam offer on the Coconut Oil 1L and they had run out. Please stock more next time.
+R267,2025-09-11,App,Central Kerala,Mixture,"Good quality Mixture, but delivery took far too long."
+R268,2025-09-11,App,South Kerala,Coconut Oil 1L,I wanted the Coconut Oil 1L in the Onam offer but it was out of stock at my outlet all week. I needed it for Onam.
+R269,2025-09-11,App,South Kerala,Turmeric Powder,"The Turmeric Powder was fresh and well packed, there is no artificial taste at all. Perfect for festival days."
+R270,2025-09-11,App,Malabar,Payasam Mix Semiya,The app said the Payasam Mix Semiya was available and the outlet said sold out. Please stock more next time.
+R271,2025-09-11,App,South Kerala,Red Aval,Two outlets and no Red Aval. What is the point of the Sadya offer? I needed it for Onam.
+R272,2025-09-12,Outlet card,Malabar,Garam Masala,"Sorry to say the Garam Masala was poor, delivery was two weeks late. Not buying again."
+R273,2025-09-12,Outlet card,South Kerala,Payasam Mix Palada,Tried three times to order the Payasam Mix Palada for Onam and it kept showing out of stock. I needed it for Onam.
+R274,2025-09-12,Outlet card,Chennai,Murukku,"Valare nalla Murukku, ishtappettu."
+R275,2025-09-13,Outlet card,Central Kerala,Kuzhalappam,"The Kuzhalappam tastes just like homemade, it arrived a day early. Perfect for festival days."
+R276,2025-09-15,Marketplace,Coimbatore-Palakkad,Turmeric Powder,Superb packaging. The Turmeric Powder survived the trip as dust.
+R277,2025-09-16,Outlet card,Coimbatore-Palakkad,Unniyappam Mix,Amazing how the app says delivered while I am still waiting for the Unniyappam Mix.
+R278,2025-09-17,Marketplace,Coimbatore-Palakkad,Red Aval,"Lovely flavour in the Red Aval, but it is pricier than the local shop."
+R279,2025-09-17,App,Bengaluru,Payasam Mix Palada,Not good. The Payasam Mix Palada was flat and stale.
+R280,2025-09-18,Outlet card,Central Kerala,Banana Chips Pepper,It isn't hard to like this Banana Chips Pepper.
+R281,2025-09-18,App,Malabar,Jackfruit Chips,"Ordered the Jackfruit Chips again, it was ready in minutes. Five stars from me."
+R282,2025-09-22,Marketplace,Central Kerala,Fish Curry Masala,"Good quality Fish Curry Masala, though the portion is small for the price."
+R283,2025-09-22,Outlet card,Bengaluru,Banana Chips Classic,"Nothing wrong with the Banana Chips Classic, very fresh."
+R284,2025-09-26,Outlet card,Malabar,Malabar Parotta frozen,Brilliant service. Only took three weeks to deliver the Malabar Parotta frozen. Really impressed.
+R285,2025-09-26,App,Central Kerala,Kuzhalappam,Nothing says festival like a missing item in the box. Well done.
+R286,2025-09-26,Outlet card,Bengaluru,Rasam Powder,"The Rasam Powder tastes just like homemade, it arrived a day early. My go-to brand now."
+R287,2025-09-27,App,Central Kerala,Lime Pickle,"Our family finished the Lime Pickle in two days, there is no artificial taste at all. Will order again."
+R288,2025-09-29,Outlet card,Central Kerala,Coconut Oil 500ml,"Loved the Coconut Oil 500ml, the portion size is generous. Perfect for festival days."
+R289,2025-09-30,App,Coimbatore-Palakkad,Mango Pickle,"Bought the Mango Pickle for Onam and was let down, the seal was broken. I want a refund."
+R290,2025-09-30,Outlet card,Central Kerala,Achappam,"The Achappam was a disappointment, the pack had spilled in transit. Please improve the quality."
+R291,2025-09-30,Marketplace,Malabar,Appam Mix,"The Appam Mix tastes just like homemade, the pack was sealed properly. My go-to brand now."
+R292,2025-10-02,Outlet card,Bengaluru,Coconut Oil 500ml,"Do not recommend the Coconut Oil 500ml, the seal was broken. Not buying again."
+R293,2025-10-02,Outlet card,Malabar,Achappam,"The Achappam tastes excellent, only delivery took far too long."
+R294,2025-10-03,App,Bengaluru,Garlic Pickle,Not happy with the Garlic Pickle at all.
+R295,2025-10-04,Marketplace,Malabar,Murukku,Ordered the 500g pack of Murukku. Neither good nor bad.
+R296,2025-10-05,Marketplace,Central Kerala,Coconut Oil 500ml,"The Coconut Oil 500ml I received was not up to the mark, delivery was two weeks late. Please improve the quality."
+R297,2025-10-07,Marketplace,Coimbatore-Palakkad,Murukku,Never again will I buy the Murukku.
+R298,2025-10-08,App,South Kerala,Achappam,"Fresh and crisp Achappam, but delivery took far too long."
+R299,2025-10-08,Marketplace,Chennai,Matta Rice 5kg,"Sorry to say the Matta Rice 5kg was poor, the pack had spilled in transit. Very disappointed."
+R300,2025-10-10,Outlet card,South Kerala,Garam Masala,"Our family finished the Garam Masala in two days, it was ready in minutes. Five stars from me."

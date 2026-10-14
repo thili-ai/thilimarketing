@@ -1,0 +1,41 @@
+outlet_id,region,opened_year,onam_campaign
+OUT01,Malabar,2022,Y
+OUT02,Malabar,2019,N
+OUT03,Malabar,2016,Y
+OUT04,Malabar,2014,N
+OUT05,Malabar,2012,Y
+OUT06,Malabar,2021,N
+OUT07,Malabar,2014,Y
+OUT08,Malabar,2019,Y
+OUT09,Central Kerala,2012,N
+OUT10,Central Kerala,2012,N
+OUT11,Central Kerala,2021,Y
+OUT12,Central Kerala,2022,N
+OUT13,Central Kerala,2021,Y
+OUT14,Central Kerala,2019,Y
+OUT15,Central Kerala,2021,Y
+OUT16,Central Kerala,2022,N
+OUT17,Central Kerala,2012,Y
+OUT18,Central Kerala,2014,N
+OUT19,South Kerala,2014,Y
+OUT20,South Kerala,2022,Y
+OUT21,South Kerala,2019,N
+OUT22,South Kerala,2019,N
+OUT23,South Kerala,2021,N
+OUT24,South Kerala,2014,Y
+OUT25,South Kerala,2018,N
+OUT26,Coimbatore-Palakkad,2021,N
+OUT27,Coimbatore-Palakkad,2016,N
+OUT28,Coimbatore-Palakkad,2014,N
+OUT29,Coimbatore-Palakkad,2016,N
+OUT30,Coimbatore-Palakkad,2022,Y
+OUT31,Coimbatore-Palakkad,2014,N
+OUT32,Bengaluru,2018,Y
+OUT33,Bengaluru,2018,N
+OUT34,Bengaluru,2019,Y
+OUT35,Bengaluru,2019,Y
+OUT36,Bengaluru,2018,Y
+OUT37,Chennai,2019,N
+OUT38,Chennai,2014,Y
+OUT39,Chennai,2022,Y
+OUT40,Chennai,2019,N
